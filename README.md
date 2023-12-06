@@ -11,7 +11,7 @@
 
 ##  🔧 Technologies & Tools I've worked with :
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,c,html,css,js,java,tailwind,react,nodejs,materialui,linux" />
+<img src="https://skillicons.dev/icons?i=git,c,html,css,js,java,tailwind,react,nodejs,materialui,linux,solidity" />
 
 
 ## &#x1f4c8; GitHub Stats
