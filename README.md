@@ -3,7 +3,7 @@
 <h1 > 👋 Hey there ! </h1>
 
 <p>
-  I'm Batman (the lego version), or as people call me by my fulll name, Noor Benhaddya a 18 year old Usthb survivor and a upcoming software developper who is currently intrested in ctfs and cybersecurity 🚀
+  I'm Batman (the lego version), or as people call me by my fulll name, Noor Benhaddya a 18 year old Usthb survivor and an upcoming developper who is currently intrested in ctfs and cybersecurity 🚀
 </p>
 
 <br>
