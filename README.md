@@ -9,7 +9,7 @@
 
 ##  🔧 Technologies & Tools I've worked with :
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,c,html,css,js,java,tailwind,react,nodejs,materialui,linux,solidity" />
+<img src="https://skillicons.dev/icons?i=git,c,html,css,js,solidity,java,tailwind,react,nodejs,materialui,linux,dart,flutter" />
 
 
 ## &#x1f4c8; GitHub Stats
