@@ -3,7 +3,7 @@
 <h1 > 👋 Hey there ! </h1>
 
 <p>
-  I'm Batman , or as people call me by my fulll name, Noor Benhaddya a 18 year old Usthb survivor and an upcoming developper 
+  I'm Batman, or as people call me by my cover up name, Noor Benhaddya a 19 year old Usthb survivor and an upcoming developper 
 </p>
 
 
