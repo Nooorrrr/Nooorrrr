@@ -3,13 +3,13 @@
 <h1 > 👋 Hey there ! </h1>
 
 <p>
-  I'm Batman, or as people call me by my cover up name, Noor Benhaddya a 19 year old Usthb survivor and an upcoming developper 
+  I'm Batman, or as people call me by my cover up name, Noor Benhaddya a 19 year old Usthb survivor (cyber security student) and an upcoming developper 
 </p>
 
 
 ##  🔧 Technologies & Tools I've worked with :
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,c,html,css,js,python,solidity,java,tailwind,react,nodejs,linux,dart,flutter" />
+<img src="https://skillicons.dev/icons?i=c,html,css,js,python,django,solidity,java,tailwind,react,nodejs,linux,dart,flutter" />
 
 
 ## &#x1f4c8; GitHub Stats
