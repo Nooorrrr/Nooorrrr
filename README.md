@@ -3,7 +3,7 @@
 <h1 > 👋 Hey there ! </h1>
 
 <p>
-  I'm Noor Benhaddya a 20 year old Usthb survivor (cyber security student), ctf player and an upcoming developper intrested in mobile and web3 
+  I'm Noor Benhaddya a 20 year old Usthb survivor (cyber security student), ctf player and an upcoming developper intrested in mobile, web3 and devops 
 </p>
 
 ### 📫 Get in Touch
