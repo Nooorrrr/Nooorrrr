@@ -2,6 +2,9 @@
 
 <h1 > 👋 Hey there ! </h1>
 
+![7oXVGpXRO8dAcgW](https://github.com/user-attachments/assets/4fb92b6c-ffee-46e6-9738-35069a53d04c)
+
+
 <p>
   I'm Noor Benhaddya a 20 year old Usthb survivor (cyber security student), ctf player and an upcoming developper intrested in mobile, web3 and devops 
 </p>
